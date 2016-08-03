@@ -1,4 +1,26 @@
-.column {
-  width: 300px;
+
+html {
+  text-align: center;
+}
+
+.column1 {
+  width: 30%;
   float: left;
+  background-color: #555555;
+  margin-left: 30px;
+
+}
+
+.column2 {
+  width: 30%;
+  float: left;
+  background-color: #bbbbbb;
+  margin-left: 30px;
+}
+
+.column3 {
+  width: 30%;
+  float: left;
+  background-color: #6a9c0e;
+  margin-left: 30px;
 }
